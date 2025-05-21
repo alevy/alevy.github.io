@@ -26,11 +26,11 @@ of my current and recent [projects](/research).
 
 ## Recent Selected Publications
 
+_Building Bridges: Safe Interactions with Foreign Languages through Omniglot_ OSDI 2025 _\[To Appear\]_
+
 _Only Pay for What You Leak: Leveraging Sandboxes for a Minimally Invasive Browser Fingerprinting Defense._ IEEE S&P 2023 _\[[PDF](/papers/2023-sp-sandcastle.pdf)\]_
 
 _Doing More with Less: Orchestrating Serverless Applications without an Orchestrator_. NSDI '23. _\[[PDF](/papers/2023-nsdi-unum.pdf)\]_
-
-_Computation-Centric Networking_. HotNets '22. _\[[PDF](/papers/2022-hotnets-fixpoint.pdf)\]_
 
 _Speculative Recovery: Cheap, Highly Available Fault Tolerance with Disaggregated Storage_. ATC '22.  _\[[PDF](/papers/2022-atc-specreds.pdf)\]_
 
