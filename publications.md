@@ -7,8 +7,13 @@ layout: default
 
 ## Conferences/Workshops
 
-* Encapsulated Functions: Fortifying Rust's FFI in Embedded Systems. with Leon Schuermann and Arun Thomas. In Kernel Isolation, Safety and Verification (KISV '23) 2023. Paper: _\[[PDF](/papers/2023-encapfn-schuermann.pdf)\]_
+* Building Bridges: Safe Interactions with Foreign Languages through Omniglot. with Leon Schuermann, Jack Toubes, Tyler Potyondy and Mae Milano. In Proceedings of USENIX Symposium on Operating Systems Design and Implementationthe (OSDI '25) 2025.
+**Best Paper Award**.
+Paper: _\[[PDF](/papers/2025-osdi-omniglot.pdf)\]_
 
+* Bridge: A Leak-Free Hardware-Software Architecture for Parallel Embedded Systems. with Gongqi Huang and Leon Schuermann. In Kernel Isolation, Safety and Verification (KISV '24) 2024. Paper: _\[[PDF](/papers/2024-kisv-bridge.pdf)\]_
+
+* Encapsulated Functions: Fortifying Rust's FFI in Embedded Systems. with Leon Schuermann and Arun Thomas. In Kernel Isolation, Safety and Verification (KISV '23) 2023. Paper: _\[[PDF](/papers/2023-encapfn-schuermann.pdf)\]_
 
 * Only Pay for What You Leak: Leveraging Sandboxes for a Minimally Invasive Browser Fingerprinting Defense. with Ryan Torok. In Proceedings of the 44th IEEE Symposium on Security and Privacy (IEEE S&P) 2023. Paper: _\[[PDF](/papers/2023-sp-sandcastle.pdf)\]_
 
@@ -78,7 +83,7 @@ layout: default
 
 * Addressing Covert Termination and Timing Channels in Concurrent Information Flow Systems. With [Deian Stefan], [Alejandro Russo], [Pablo Buiras], [John Mitchell], [David Mazières]. In In Proceedings of ICFP, Copenhagen, Denmark . 2012. Paper: _\[[PDF](/papers/lio-icfp2012.pdf)\]_
 
-* __Comet__: An active distributed key-value store. With [Roxana Geambasu], [Tadayoshi Kohno][], [Arvind Krishnamurthy][] and [Hank Levy][]. In Proceedings of OSDI, Vancouver, Canada, October 2010. 
+* __Comet__: An active distributed key-value store. With [Roxana Geambasu], [Tadayoshi Kohno][], [Arvind Krishnamurthy][] and [Hank Levy][]. In Proceedings of OSDI, Vancouver, Canada, October 2010.
 Paper: _\[[PDF](/papers/comet-osdi2010.pdf)\]_ Poster: _\[[PDF](/papers/comet-poster.pdf)\]_
 
 * __Vanish__: Increasing Data Privacy with DHTs that forget. With [Roxana Geambasu][], [Tadayoshi Kohno][], and [Hank Levy][]. In Proceedings of the USENIX Security Symposium, Montreal, Canada, August 2009.
@@ -104,9 +109,10 @@ Paper: _\[[PDF](/papers/vanish-usenixsec09.pdf)\]_
 
 ## Non-Refereed
 
+* Memory Safety is Merely Table Stakes – Safe Interactions Foreign Languages through Omniglot. with Leon Schuermann, Jack Toubes, Tyler Potyondy, Pat Pannuto and Mae Milano. [USENIX ;login; June 2025](https://www.usenix.org/publications/loginonline/memory-safety-merely-table-stakes). _\[[PDF](/papers/2025-login-omniglot.pdf)\]_
+
 * __Blade__: A Data Center Garbage Collector. With [David Terei]. Compute
   Research Repository (CoRR), 2015.
   _\[[PDF](http://arxiv.org/pdf/1504.02578v1)\]_
 
 * New directions for self-destructing data systems. With [Roxana Geambasu], [Tadayoshi Kohno], [Arvind Krishnamurthy], [Hank Levy], Paul Gardner, Vino Moscaritolo. University of Washington, Tech. Rep 2013. Paper: _\[[PDF](/papers/wpid-uwtech2010)\]_
-
