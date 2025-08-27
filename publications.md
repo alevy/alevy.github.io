@@ -7,39 +7,45 @@ layout: default
 
 ## Conferences/Workshops
 
-* Building Bridges: Safe Interactions with Foreign Languages through Omniglot. with Leon Schuermann, Jack Toubes, Tyler Potyondy and Mae Milano. In Proceedings of USENIX Symposium on Operating Systems Design and Implementationthe (OSDI '25) 2025.
+* Tock: From Research To Securing 10 Million Computers. with [Leon Schuermann], [Brad Campbell], [Pat Pannuto], [Branden Ghena] and [Phil Levis]. In Proceedings of the ACM Symposium on Operating Systems Principles (SOSP '25) 2025.
+
+* Running Consistent Applications Closer to Users with Radical for Lower Latency. with [Nicolaas Kaashoek], Oleg Golev, Austin Li and [Wyatt Lloyd]. In Proceedings of the ACM Symposium on Operating Systems Principles (SOSP '25) 2025.
+
+* From Rust till Run: Extending Memory Safety from Rust to Cryptographic Assembly. with [Shai Caspin] and Nikhil Pimpalkhare. In Proceedings of Programming Languages and Operating Systems (PLOS '25) 2025.
+
+* Building Bridges: Safe Interactions with Foreign Languages through Omniglot. with [Leon Schuermann], Jack Toubes, Tyler Potyondy, [Pat Pannuto] and Mae Milano. In Proceedings of USENIX Symposium on Operating Systems Design and Implementationthe (OSDI '25) 2025.
 **Best Paper Award**.
 Paper: _\[[PDF](/papers/2025-osdi-omniglot.pdf)\]_
 
-* Bridge: A Leak-Free Hardware-Software Architecture for Parallel Embedded Systems. with Gongqi Huang and Leon Schuermann. In Kernel Isolation, Safety and Verification (KISV '24) 2024. Paper: _\[[PDF](/papers/2024-kisv-bridge.pdf)\]_
+* Bridge: A Leak-Free Hardware-Software Architecture for Parallel Embedded Systems. with [Gongqi Huang] and [Leon Schuermann]. In Kernel Isolation, Safety and Verification (KISV '24) 2024. Paper: _\[[PDF](/papers/2024-kisv-bridge.pdf)\]_
 
-* Encapsulated Functions: Fortifying Rust's FFI in Embedded Systems. with Leon Schuermann and Arun Thomas. In Kernel Isolation, Safety and Verification (KISV '23) 2023. Paper: _\[[PDF](/papers/2023-encapfn-schuermann.pdf)\]_
+* Encapsulated Functions: Fortifying Rust's FFI in Embedded Systems. with [Leon Schuermann] and Arun Thomas. In Kernel Isolation, Safety and Verification (KISV '23) 2023. Paper: _\[[PDF](/papers/2023-encapfn-schuermann.pdf)\]_
 
-* Only Pay for What You Leak: Leveraging Sandboxes for a Minimally Invasive Browser Fingerprinting Defense. with Ryan Torok. In Proceedings of the 44th IEEE Symposium on Security and Privacy (IEEE S&P) 2023. Paper: _\[[PDF](/papers/2023-sp-sandcastle.pdf)\]_
+* Only Pay for What You Leak: Leveraging Sandboxes for a Minimally Invasive Browser Fingerprinting Defense. with [Ryan Torok]. In Proceedings of the 44th IEEE Symposium on Security and Privacy (IEEE S&P) 2023. Paper: _\[[PDF](/papers/2023-sp-sandcastle.pdf)\]_
 
-* Doing More with Less: Orchestrating Serverless Applications without an Orchestrator. with David Liu, Shadi Noghabi, and Sebastian Burckhardt. (to appear) In proceedings of the 20th USENIX Symposium on Networked Systems Design and Implementation (NSDI) 2023. Paper: _\[[PDF](/papers/2023-nsdi-unum.pdf)\]_
+* Doing More with Less: Orchestrating Serverless Applications without an Orchestrator. with [David Liu], Shadi Noghabi, and Sebastian Burckhardt. (to appear) In proceedings of the 20th USENIX Symposium on Networked Systems Design and Implementation (NSDI) 2023. Paper: _\[[PDF](/papers/2023-nsdi-unum.pdf)\]_
 
 * Computation-Centric Networking. with Yuhan Deng, Angela Montemayor, and Keith Winstein. In Proceedings of the 21st ACM Workshop on Hot Topics in Networks (HotNets) 2022. Paper: _\[[PDF](/papers/2022-hotnets-fixpoint.pdf)\]_
 
-* Speculative Recovery: Cheap, Highly Available Fault Tolerance with Disaggregated Storage. with Nanqinqin Li, Anja Kalaba, Mike Freedman, and Wyatt Lloyd. In proceedings of the USENIX Annual Technical Conference (USENIX ATC) 2022. Paper: _\[[PDF](/papers/2022-atc-specreds.pdf)\]_
+* Speculative Recovery: Cheap, Highly Available Fault Tolerance with Disaggregated Storage. with Nanqinqin Li, [Anja Kalaba], Mike Freedman, and [Wyatt Lloyd]. In proceedings of the USENIX Annual Technical Conference (USENIX ATC) 2022. Paper: _\[[PDF](/papers/2022-atc-specreds.pdf)\]_
 
-* Tiered Trust for Useful Embedded Systems Security. with Hudson Ayers, Prabal Dutta, Philip Levis, Pat Pannuto, Johnathan Van Why and Jean-Luc Watson. In proceedings of the European Workshop on Systems Security (EuroSec) 2022. Paper: _\[[PDF](/papers/2022-eurosec-ayers.pdf)\]_
+* Tiered Trust for Useful Embedded Systems Security. with Hudson Ayers, Prabal Dutta, [Phil Levis], [Pat Pannuto], Johnathan Van Why and Jean-Luc Watson. In proceedings of the European Workshop on Systems Security (EuroSec) 2022. Paper: _\[[PDF](/papers/2022-eurosec-ayers.pdf)\]_
 
-* Regular Sequential Serializability and Regular Sequential Consistency. with Jeffrey Helt, Matthew Burke, and Wyatt Lloyd. In proceedings of the ACM Symposium on Operating Systems Principles (SOSP) 2021. Paper: _\[[PDF](/papers/rss-sosp21.pdf)\]_
+* Regular Sequential Serializability and Regular Sequential Consistency. with Jeffrey Helt, Matthew Burke, and [Wyatt Lloyd]. In proceedings of the ACM Symposium on Operating Systems Principles (SOSP) 2021. Paper: _\[[PDF](/papers/rss-sosp21.pdf)\]_
 
-* Safer at Any Speed: Automatic Context-Aware Safety Enhancement for Rust. with Natalie Popescu, Ziyang Xu, Sotiris Apostolakis, and David August.
+* Safer at Any Speed: Automatic Context-Aware Safety Enhancement for Rust. with [Natalie Popescu], Ziyang Xu, Sotiris Apostolakis, and David August.
   In Proceedings of ACM Programming Languages, OOPSLA, 2021. Paper:
   _\[[PDF](/papers/nader-oopsla21.pdf)\]_
 
-* Power Clocks: Dynamic Multi-Clock Management for Embedded Systems". with Holly Chiang, Hudson Ayers, Daniel Giffin, and Philip Levis.
+* Power Clocks: Dynamic Multi-Clock Management for Embedded Systems". with Holly Chiang, Hudson Ayers, Daniel Giffin, and [Phil Levis].
   In Proceedings of International Conference on Embedded Wireless Systems and Networks (EWSN) 2021. Paper:
   _\[[PDF](/papers/2021-ewsn-chiang.pdf)\]_
 
 
-- Design considerations for low power internet protocols. with Hudson Ayers, Paul Crews, Hubert Teo, Conor McAvity, and Philip Levis. In Proceedings of International Conference on Distributed Computing in Sensor Systems (DCOSS) 2020. Paper: _\[[PDF](/papers/2020-dcoss-ayers.pdf)\]_
+- Design considerations for low power internet protocols. with Hudson Ayers, Paul Crews, Hubert Teo, Conor McAvity, and [Phil Levis]. In Proceedings of International Conference on Distributed Computing in Sensor Systems (DCOSS) 2020. Paper: _\[[PDF](/papers/2020-dcoss-ayers.pdf)\]_
 
 * Position Paper: Bringing Memory Safety to WebAssembly. With Craig Disselkoen,
-  John Renner, Conrad Watt, Tal Garfinkel, and Deian Stefan. In Proceedings of
+  John Renner, Conrad Watt, Tal Garfinkel, and [Deian Stefan]. In Proceedings of
   Hardware and Architectural Support for Security and Privacy (HASP) 2019. Paper:
   _\[[PDF](/papers/ms-wasm-hasp19.pdf)\]_
 

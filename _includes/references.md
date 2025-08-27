@@ -38,6 +38,17 @@
 [Branden Ghena]:        http://web.eecs.umich.edu/~brghena/
 [Keith Winstein]:       http://cs.stanford.edu/~keithw/
 [Laurynas Riliskis]:    http://web.stanford.edu/~riliskis/
+[Leon Schuermann]:      https://leon.schuermann.io/
+[Wyatt Lloyd]:          https://leon.schuermann.io/
+[Nicolaas Kaashoek]:    https://nickaashoek.gitlab.io/
+[Shai Caspin]:          https://www.cs.princeton.edu/~sc4479/
+[Natalie Popescu]:      https://www.cs.princeton.edu/~npopescu/
+[Anja Kalaba]:          https://www.cs.princeton.edu/~akalaba/
+[Jingyuan Chen]:        https://leochanj105.github.io/
+[Gongqi Huang]:         https://gongqihuang.com/
+[David Liu]:            https://www.cs.princeton.edu/~hl7/
+[Ryan Torok]:           https://ryantorok.net/
+[Yue Tan]:              https://www.cs.princeton.edu/~yuetan/
 
 [Justine Sherry]:     http://www.cs.berkeley.edu/~justine/
 [Gilbert Bernstein]:  http://www.gilbertbernstein.com/
@@ -56,4 +67,3 @@
 [Stanford Information Networks Group]:  http://sing.stanford.edu
 [Grameen Foundation]:       http://www.grameenfoundation.org/
 [MIFOS]:                    http://www.mifos.org/
-
