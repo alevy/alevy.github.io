@@ -8,6 +8,7 @@ layout: default
 ## Conferences/Workshops
 
 * Tock: From Research To Securing 10 Million Computers. with [Leon Schuermann], [Brad Campbell], [Pat Pannuto], [Branden Ghena] and [Phil Levis]. In Proceedings of the ACM Symposium on Operating Systems Principles (SOSP '25) 2025.
+Paper: _\[[PDF](/papers/2025-sosp-tock.pdf)\]_
 
 * Running Consistent Applications Closer to Users with Radical for Lower Latency. with [Nicolaas Kaashoek], Oleg Golev, Austin Li and [Wyatt Lloyd]. In Proceedings of the ACM Symposium on Operating Systems Principles (SOSP '25) 2025.
 
