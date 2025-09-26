@@ -15,17 +15,17 @@
 # in the templates via {{ site.myvariable }}.
 title: amit levy
 description: >- # this means to ignore newlines until "baseurl:"
-  Assistant Professor of Computer Science at Princeton University. Research,
-  publications, projects and contact information.
+  Computer Science researcher and director of the Tock Foundation and Better
+  Bytes. Research, publications, projects and contact information.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://amitlevy.com" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: pretty
 
 # Contact Info
 job:
-  title: "Assistant Professor"
-  department: "Computer Science"
-  institution: "Princeton University"
+  title: "Researcher & Executive Director"
+  department: "Tock Foundation"
+  institution: "Better Bytes"
 email: amit@amitlevy.com
 
 # Navigation settings

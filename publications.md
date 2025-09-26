@@ -11,6 +11,9 @@ layout: default
 Paper: _\[[PDF](/papers/2025-sosp-tock.pdf)\]_
 
 * Running Consistent Applications Closer to Users with Radical for Lower Latency. with [Nicolaas Kaashoek], Oleg Golev, Austin Li and [Wyatt Lloyd]. In Proceedings of the ACM Symposium on Operating Systems Principles (SOSP '25) 2025.
+Paper: _\[[PDF](/papers/2025-sosp-radical.pdf)\]_
+
+* End-to-End Encrypted Applications with Strong Consistency Under Byzantine Actors. with [Natalie Popescu], [Shai Caspin], [Leon Schuermann] and [Jingyuan Chen]. In Proceedings of the Annual Computer Security Applications Conference (ACSAC '25)
 
 * From Rust till Run: Extending Memory Safety from Rust to Cryptographic Assembly. with [Shai Caspin] and Nikhil Pimpalkhare. In Proceedings of Programming Languages and Operating Systems (PLOS '25) 2025.
 
