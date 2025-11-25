@@ -7,7 +7,7 @@ layout: default
 
 ![If you have a lot of money, please buy me the carpet in the
 background](/assets/images/me.webp "If you have a lot of money, please buy me
-the carpet in the background")  
+the carpet in the background")
 Hi. My name is Amit, and I build systems.
 
 ~~I'm an Assistant Professor in the Computer Science department at Princeton
@@ -41,23 +41,35 @@ students:
 
 ## Recent Selected Publications
 
-_Tock: From Research To Securing 10 Million Computers_ SOSP '25 _\[[PDF](/papers/2025-sosp-tock.pdf)\]_
+_Rage Against the State Machine: Type-Stated Hardware Peripherals for Increased Driver Correctness_ \
+ASPLOS '26 _To Appear_
 
-_Running Consistent Applications Closer to Users with Radical for Lower Latency_ SOSP '25 _\[[PDF](/papers/2025-sosp-radical.pdf)\]_
+_Tock: From Research To Securing 10 Million Computers_ \
+SOSP '25 _\[[PDF](/papers/2025-sosp-tock.pdf)\]_
 
-_End-to-End Encrypted Applications with Strong Consistency Under Byzantine Actors_ (ACSAC '25) _To Appear_
+_Running Consistent Applications Closer to Users with Radical for Lower Latency_ \
+SOSP '25 _\[[PDF](/papers/2025-sosp-radical.pdf)\]_
 
-_Building Bridges: Safe Interactions with Foreign Languages through Omniglot_ OSDI 2025 **Best Paper Award** _\[[PDF](/papers/2025-osdi-omniglot.pdf)\]_
+_End-to-End Encrypted Applications with Strong Consistency Under Byzantine Actors_ \
+(ACSAC '25) _To Appear_
 
-_Only Pay for What You Leak: Leveraging Sandboxes for a Minimally Invasive Browser Fingerprinting Defense._ IEEE S&P 2023 _\[[PDF](/papers/2023-sp-sandcastle.pdf)\]_
+_Building Bridges: Safe Interactions with Foreign Languages through Omniglot_ \
+OSDI '25 **Best Paper Award** _\[[PDF](/papers/2025-osdi-omniglot.pdf)\]_
 
-_Doing More with Less: Orchestrating Serverless Applications without an Orchestrator_. NSDI '23. _\[[PDF](/papers/2023-nsdi-unum.pdf)\]_
+_Only Pay for What You Leak: Leveraging Sandboxes for a Minimally Invasive Browser Fingerprinting Defense._ \
+IEEE S&P '23 _\[[PDF](/papers/2023-sp-sandcastle.pdf)\]_
 
-_Speculative Recovery: Cheap, Highly Available Fault Tolerance with Disaggregated Storage_. ATC '22.  _\[[PDF](/papers/2022-atc-specreds.pdf)\]_
+_Doing More with Less: Orchestrating Serverless Applications without an Orchestrator_. \
+NSDI '23. _\[[PDF](/papers/2023-nsdi-unum.pdf)\]_
 
-_Regular Sequential Serializability and Regular Sequential Consistency_. SOSP '21. : _\[[PDF](/papers/rss-sosp21.pdf)\]_
+_Speculative Recovery: Cheap, Highly Available Fault Tolerance with Disaggregated Storage_. \
+ATC '22.  _\[[PDF](/papers/2022-atc-specreds.pdf)\]_
 
-_Safer at Any Speed: Automatic Context-Aware Safety Enhancement for Rust_. OOPSLA '21. _\[[PDF](/papers/nader-oopsla21.pdf)\]_
+_Regular Sequential Serializability and Regular Sequential Consistency_. \
+SOSP '21. : _\[[PDF](/papers/rss-sosp21.pdf)\]_
+
+_Safer at Any Speed: Automatic Context-Aware Safety Enhancement for Rust_. \
+OOPSLA '21. _\[[PDF](/papers/nader-oopsla21.pdf)\]_
 
 ## Alumni
 
