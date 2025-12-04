@@ -17,6 +17,7 @@ Paper: _\[[PDF](/papers/2025-sosp-tock.pdf)\]_
 Paper: _\[[PDF](/papers/2025-sosp-radical.pdf)\]_
 
 * End-to-End Encrypted Applications with Strong Consistency Under Byzantine Actors. with [Natalie Popescu], [Shai Caspin], [Leon Schuermann] and [Jingyuan Chen]. In Proceedings of the Annual Computer Security Applications Conference (ACSAC '25) 2025.
+Paper: _\[[PDF](/papers/2025-acsac-scuba.pdf)\]_
 
 * From Rust till Run: Extending Memory Safety from Rust to Cryptographic Assembly. with [Shai Caspin] and Nikhil Pimpalkhare. In Proceedings of Programming Languages and Operating Systems (PLOS '25) 2025.
 **Best Paper Award**

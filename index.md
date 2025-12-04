@@ -7,7 +7,7 @@ layout: default
 
 ![If you have a lot of money, please buy me the carpet in the
 background](/assets/images/me.webp "If you have a lot of money, please buy me
-the carpet in the background")  
+the carpet in the background")
 Hi. My name is Amit, and I build systems.
 
 ~~I'm an Assistant Professor in the Computer Science department at Princeton
@@ -41,11 +41,11 @@ students:
 
 ## Recent Selected Publications
 
+_End-to-End Encrypted Applications with Strong Consistency Under Byzantine Actors_ ACSAC '25 _\[[PDF](/papers/2025-acsac-scuba.pdf)\]_
+
 _Tock: From Research To Securing 10 Million Computers_ SOSP '25 _\[[PDF](/papers/2025-sosp-tock.pdf)\]_
 
 _Running Consistent Applications Closer to Users with Radical for Lower Latency_ SOSP '25 _\[[PDF](/papers/2025-sosp-radical.pdf)\]_
-
-_End-to-End Encrypted Applications with Strong Consistency Under Byzantine Actors_ (ACSAC '25) _To Appear_
 
 _Building Bridges: Safe Interactions with Foreign Languages through Omniglot_ OSDI 2025 **Best Paper Award** _\[[PDF](/papers/2025-osdi-omniglot.pdf)\]_
 
