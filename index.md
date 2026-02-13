@@ -10,10 +10,6 @@ background](/assets/images/me.webp "If you have a lot of money, please buy me
 the carpet in the background")
 Hi. My name is Amit, and I build systems.
 
-~~I'm an Assistant Professor in the Computer Science department at Princeton
-University, where I lead the Praxis lab and co-lead the [SNS
-group](https://sns.cs.princeton.edu).~~
-
 My research centers around the idea that well designed secure systems _empower_
 developers and their applications, rather than restrict them. This usually
 manifests in building practical and secure operating systems, embedded systems,
