@@ -37,6 +37,8 @@ students:
 
 ## Recent Selected Publications
 
+_Rage Against the State Machine: Type-Stated Hardware Peripherals for Increased Driver Correctness_ <nobr>ASPLOS '26</nobr> _\[[PDF](/papers/2026-asplos-abacus.pdf)\]_
+
 _End-to-End Encrypted Applications with Strong Consistency Under Byzantine Actors_ ACSAC '25 _\[[PDF](/papers/2025-acsac-scuba.pdf)\]_
 
 _Tock: From Research To Securing 10 Million Computers_ SOSP '25 _\[[PDF](/papers/2025-sosp-tock.pdf)\]_
@@ -48,12 +50,6 @@ _Building Bridges: Safe Interactions with Foreign Languages through Omniglot_ OS
 _Only Pay for What You Leak: Leveraging Sandboxes for a Minimally Invasive Browser Fingerprinting Defense._ IEEE S&P 2023 _\[[PDF](/papers/2023-sp-sandcastle.pdf)\]_
 
 _Doing More with Less: Orchestrating Serverless Applications without an Orchestrator_. NSDI '23. _\[[PDF](/papers/2023-nsdi-unum.pdf)\]_
-
-_Speculative Recovery: Cheap, Highly Available Fault Tolerance with Disaggregated Storage_. ATC '22.  _\[[PDF](/papers/2022-atc-specreds.pdf)\]_
-
-_Regular Sequential Serializability and Regular Sequential Consistency_. SOSP '21. : _\[[PDF](/papers/rss-sosp21.pdf)\]_
-
-_Safer at Any Speed: Automatic Context-Aware Safety Enhancement for Rust_. OOPSLA '21. _\[[PDF](/papers/nader-oopsla21.pdf)\]_
 
 ## Alumni
 

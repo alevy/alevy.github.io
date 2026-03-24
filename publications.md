@@ -7,6 +7,9 @@ layout: default
 
 ## Conferences/Workshops
 
+* Rage Against the State Machine: Type-Stated Hardware Peripherals for Increased Driver Correctness. with [Tyler Potyondy], [Anthony Tarbinian], [Leon Schuermann], [Eric Mugnier], [Adin Ackerman] and [Pat Pannuto] In proceedings of the 31st ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS '26) 2026.
+Paper: _\[[PDF](/papers/2026-asplos-abacus.pdf)\]_
+
 * Analyzing the Economic Impact of Decentralization on Users. with Matthew Weinberg and Chenghan Zhou. In Proceedings of Innovations in Theoretical Computer Science (ITCS '26).
 Paper: _\[[PDF](/papers/2026-itcs-decentralization.pdf)\]_
 

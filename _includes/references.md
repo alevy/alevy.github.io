@@ -49,6 +49,10 @@
 [David Liu]:            https://www.cs.princeton.edu/~hl7/
 [Ryan Torok]:           https://ryantorok.net/
 [Yue Tan]:              https://www.cs.princeton.edu/~yuetan/
+[Tyler Potyondy]:       https://tylerpotyondy.com/
+[Anthony Tarbinian]:    https://atarbinian.com/
+[Eric Mugnier]:         https://emugnier.github.io/
+[Adin Ackerman]:        https://adinack.dev
 
 [Justine Sherry]:     http://www.cs.berkeley.edu/~justine/
 [Gilbert Bernstein]:  http://www.gilbertbernstein.com/
